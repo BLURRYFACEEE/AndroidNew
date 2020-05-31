@@ -1,4 +1,4 @@
-![](./images/good.jpg)
+![](./images/good.png)
 
 # 期中项目
 
